@@ -1,2 +1,2 @@
 # BIOS781
-Polygenic Risk Scores - Statistical Genetics 
+Polygenic Risk Scores -  Statistical Genetics
